@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Quentin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A developer from France</h3>
 
 - 🌱 I’m currently learning **Spring, Angular and GoLang**
 
