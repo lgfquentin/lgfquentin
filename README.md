@@ -1,7 +1,7 @@
 <h1 align="center">Hello , I'm Quentin</h1>
 <h3 align="center">A developer from France</h3>
 
-- 🌱 I’m currently learning **Spring, Angular and GoLang**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **quentin.legoff44@gmail.com**
 
