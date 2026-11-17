@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Quentin</h1>
 <h3 align="center">A software developer from France</h3>
 
-- 🌱 I’m currently learning **Cloud computing & BigData**
+- 🌱 I’m currently learning **Railway Signalling Engineering**
 
 - 📫 How to reach me: **quentin.legoff44@gmail.com**
 
